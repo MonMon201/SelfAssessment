@@ -1,100 +1,100 @@
 ## Architecture
 
 - Application structure
-  - Modularity u
-  - Components u
-  - Directories u
-  - GRASP u
-  - SOLID u
-  - GoF patterns u
-  - CQS u
-  - Leaking abstractions u
-  - Multiparadigm code u
-  - Contract programming u
-  - Platform-agnostic k
-  - Transport-agnostic k
-  - Framework-agnostic k
-  - Code coverage u
-  - Cohesion u
-  - Coupling u
-  - Cyclomatic complexity e
-  - Reliability e
-  - Quality e
-  - Availability e
-  - Flexibility e
-  - Law of Demeter (LoD) k
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 🖐️ used
+  - SOLID: 🖐️ used
+  - GoF patterns: 🖐️ used
+  - CQS: 🖐️ used
+  - Leaking abstractions: 🖐️ used
+  - Multiparadigm code: 🖐️ used
+  - Contract programming: 🖐️ used
+  - Platform-agnostic: 🎓 known
+  - Transport-agnostic: 🎓 known
+  - Framework-agnostic: 🎓 known
+  - Code coverage: 🖐️ used
+  - Cohesion: 🖐️ used
+  - Coupling: 🖐️ used
+  - Cyclomatic complexity: 🙋 explained
+  - Reliability: 🙋 explained
+  - Quality: 🙋 explained
+  - Availability: 🙋 explained
+  - Flexibility: 🙋 explained
+  - Law of Demeter (LoD): 🎓 known
 - Application architecture
-  - Isolation between layer e
-  - Domain-specific language (DSL) h
-  - System vs applied code k
-  - Multilayer approach k
-  - Hexagonal architecture k
-  - Separation of concerns (SoC) e
-  - Metaprogramming u
-  - Inversion of control (IoC) u
-  - Dependency injection (DI) u
-  - Clean architecture k
-  - Domain-driven design (DDD) u
-  - Pub/sub u
-  - Message brocker u
-  - Agent u
-  - Service locator u
-  - Message Queue (MQ) u
-  - CQRS h
-  - Event sourcing h
-  - E-R data modeling u
-  - Entity-relationship diagram u
+  - Isolation between layer: 🙋 explained
+  - Domain-specific language (DSL): 👂 heard
+  - System vs applied code: 🎓 known
+  - Multilayer approach: 🎓 known
+  - Hexagonal architecture: 🎓 known
+  - Separation of concerns (SoC): 🙋 explained
+  - Metaprogramming: 🖐️ used
+  - Inversion of control (IoC): 🖐️ used
+  - Dependency injection (DI): 🖐️ used
+  - Clean architecture: 🎓 known
+  - Domain-driven design (DDD): 🖐️ used
+  - Pub/sub: 🖐️ used
+  - Message brocker: 🖐️ used
+  - Agent: 🖐️ used
+  - Service locator: 🖐️ used
+  - Message Queue (MQ): 🖐️ used
+  - CQRS: 👂 heard
+  - Event sourcing: 👂 heard
+  - E-R data modeling: 🖐️ used
+  - Entity-relationship diagram: 🖐️ used
   - IDEF1X
-  - UML u
-  - Work breakdown structure u
+  - UML: 🖐️ used
+  - Work breakdown structure: 🖐️ used
   - Budget estimation
-  - Distributed systems u
-  - High-intensive computing u
-  - Load balancing u
-  - Gateways k
-  - On-premises k
-  - IaaS k
-  - PaaS k
-  - SaaS k
-  - FaaS clouds k
-  - Serverless k
-  - Vendor lock-in k
-  - Bus factor k
+  - Distributed systems: 🖐️ used
+  - High-intensive computing: 🖐️ used
+  - Load balancing: 🖐️ used
+  - Gateways: 🎓 known
+  - On-premises: 🎓 known
+  - IaaS: 🎓 known
+  - PaaS: 🎓 known
+  - SaaS: 🎓 known
+  - FaaS clouds: 🎓 known
+  - Serverless: 🎓 known
+  - Vendor lock-in: 🎓 known
+  - Bus factor: 🎓 known
 - Solution architecture
-  - A software requirements specification (SRS) k
-  - Solution visions h
-  - Solution capabilities k
-  - System design u
-  - Process modelling h
-  - Data modelling h
-  - Solution components h
-  - Risk assessment u
-  - Non Functional Requirements (NFR) h
-  - Clouds u
+  - A software requirements specification (SRS): 🎓 known
+  - Solution visions: 👂 heard
+  - Solution capabilities: 🎓 known
+  - System design: 🖐️ used
+  - Process modelling: 👂 heard
+  - Data modelling: 👂 heard
+  - Solution components: 👂 heard
+  - Risk assessment: 🖐️ used
+  - Non Functional Requirements (NFR): 👂 heard
+  - Clouds: 🖐️ used
   - BPMN
-  - Low-code u
-  - No-code u
-  - Metric u
-  - Metric abuse e
-  - ACID k
-  - CAP theorem k
-  - Single source of truth (SSOT) k
+  - Low-code: 🖐️ used
+  - No-code: 🖐️ used
+  - Metric: 🖐️ used
+  - Metric abuse: 🙋 explained
+  - ACID: 🎓 known
+  - CAP theorem: 🎓 known
+  - Single source of truth (SSOT): 🎓 known
 - Enterprise architecture
-  - Understanding business needs k
-  - Enterprise strategy k
-  - Integration with subsystems k
-  - Enterprise vision k
-  - Enterprise capabilities k
-  - Project scope k
-  - Enterprise service bus k
-  - Service-oriented architecture k
-  - Microservices u
-  - Process choreography k
-  - Service orchestration k
-  - Data warehouse k
-  - Business Intelligence k
-  - OLAP k
-  - OLTP k
-  - Conways Law k
-  - Quality assurance u
-  - Engineering Hygiene e
+  - Understanding business needs: 🎓 known
+  - Enterprise strategy: 🎓 known
+  - Integration with subsystems: 🎓 known
+  - Enterprise vision: 🎓 known
+  - Enterprise capabilities: 🎓 known
+  - Project scope: 🎓 known
+  - Enterprise service bus: 🎓 known
+  - Service-oriented architecture: 🎓 known
+  - Microservices: 🖐️ used
+  - Process choreography: 🎓 known
+  - Service orchestration: 🎓 known
+  - Data warehouse: 🎓 known
+  - Business Intelligence: 🎓 known
+  - OLAP: 🎓 known
+  - OLTP: 🎓 known
+  - Conways Law: 🎓 known
+  - Quality assurance: 🖐️ used
+  - Engineering Hygiene: 🙋 explained

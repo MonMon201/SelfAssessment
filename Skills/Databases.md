@@ -1,94 +1,94 @@
 ## Databases
 
 - Theory and concepts
-  - Data types u
-  - Performance tuning u
-  - Migrations u
-  - Schema versioning u
-  - Backup and recovery u
-  - Database scalability u
-  - Relational databases u
-  - Key-value store u
-  - Tuple store k
-  - Graph databases k
-  - Object databases u
+  - Data types: 🖐️ used
+  - Performance tuning: 🖐️ used
+  - Migrations: 🖐️ used
+  - Schema versioning: 🖐️ used
+  - Backup and recovery: 🖐️ used
+  - Database scalability: 🖐️ used
+  - Relational databases: 🖐️ used
+  - Key-value store: 🖐️ used
+  - Tuple store: 🎓 known
+  - Graph databases: 🎓 known
+  - Object databases: 🖐️ used
   - Column databases
-  - Navigational databases k
-  - Hierarchical databases k
-  - In-memory databases k
-  - Inverted index k
-  - Data control language (DCL) u
-  - Data definition language (DDL) u
-  - Data manipulation language (DML) u
-  - Data query language (DQL) u
+  - Navigational databases: 🎓 known
+  - Hierarchical databases: 🎓 known
+  - In-memory databases: 🎓 known
+  - Inverted index: 🎓 known
+  - Data control language (DCL): 🖐️ used
+  - Data definition language (DDL): 🖐️ used
+  - Data manipulation language (DML): 🖐️ used
+  - Data query language (DQL): 🖐️ used
 - Relational
-  - Entity-Relationship Diagram u
-  - Normal forms u
-  - Indexing u
-  - Primary keys u
-  - Foreign keys u
-  - Transactions u
-  - Views u
-  - Subqueries u
-  - Stored procedures u
-  - SQL functions u
-  - Materialized views h
-  - Replications h
-  - Virtualization u
+  - Entity-Relationship Diagram: 🖐️ used
+  - Normal forms: 🖐️ used
+  - Indexing: 🖐️ used
+  - Primary keys: 🖐️ used
+  - Foreign keys: 🖐️ used
+  - Transactions: 🖐️ used
+  - Views: 🖐️ used
+  - Subqueries: 🖐️ used
+  - Stored procedures: 🖐️ used
+  - SQL functions: 🖐️ used
+  - Materialized views: 👂 heard
+  - Replications: 👂 heard
+  - Virtualization: 🖐️ used
 - SQL
-  - `SELECT` u
-  - `INSERT` u
-  - `UPDATE` u
-  - `DELETE` u
-  - `LIMIT` u
-  - `OFFSET` u
-  - `ORDER BY` u
-  - `GROUP BY` u
-  - `HAVING` u
-  - `EXISTS` u
-  - `JOIN` u
-  - `INNER JOIN` u
-  - `LEFT JOIN` u
-  - `RIGHT JOIN` u
-  - `UNION` u
-  - `DISTINCT` u
-  - `WHERE` u
-  - `LIKE` u
-  - `IN` u
-  - `BETWEEN` u
-  - `CREATE TABLE` u
-  - `ALTER TABLE` u
-  - `DROP TABLE` u
-  - `PRIMARY KEY` u
-  - `FOREIGN KEY` u
-  - `CHECK` u
-  - `DEFAULT` u
-  - `INDEX` u
-  - `UNIQUE` u
-  - `GRANT` u
-  - `REVOKE` u
-  - `DENY` u
-  - `EXPLAIN` u
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
+  - `LIMIT`: 🖐️ used
+  - `OFFSET`: 🖐️ used
+  - `ORDER BY`: 🖐️ used
+  - `GROUP BY`: 🖐️ used
+  - `HAVING`: 🖐️ used
+  - `EXISTS`: 🖐️ used
+  - `JOIN`: 🖐️ used
+  - `INNER JOIN`: 🖐️ used
+  - `LEFT JOIN`: 🖐️ used
+  - `RIGHT JOIN`: 🖐️ used
+  - `UNION`: 🖐️ used
+  - `DISTINCT`: 🖐️ used
+  - `WHERE`: 🖐️ used
+  - `LIKE`: 🖐️ used
+  - `IN`: 🖐️ used
+  - `BETWEEN`: 🖐️ used
+  - `CREATE TABLE`: 🖐️ used
+  - `ALTER TABLE`: 🖐️ used
+  - `DROP TABLE`: 🖐️ used
+  - `PRIMARY KEY`: 🖐️ used
+  - `FOREIGN KEY`: 🖐️ used
+  - `CHECK`: 🖐️ used
+  - `DEFAULT`: 🖐️ used
+  - `INDEX`: 🖐️ used
+  - `UNIQUE`: 🖐️ used
+  - `GRANT`: 🖐️ used
+  - `REVOKE`: 🖐️ used
+  - `DENY`: 🖐️ used
+  - `EXPLAIN`: 🖐️ used
 - Engines
-  - PostgreSQL u
-  - Oracle u
-  - MySQL u
-  - MariaDB k
-  - MS SQL Server k
-  - Redis u
-  - Rabbit u
-  - MongoDB u
-  - Memcached k
+  - PostgreSQL: 🖐️ used
+  - Oracle: 🖐️ used
+  - MySQL: 🖐️ used
+  - MariaDB: 🎓 known
+  - MS SQL Server: 🎓 known
+  - Redis: 🖐️ used
+  - Rabbit: 🖐️ used
+  - MongoDB: 🖐️ used
+  - Memcached: 🎓 known
   - Riak
   - DB2
-  - SQLite u
-  - DynamoDB u
-  - Firebase u
+  - SQLite: 🖐️ used
+  - DynamoDB: 🖐️ used
+  - Firebase: 🖐️ used
 - Data engineering
-  - Data warehousing k
-  - Business intelligence k
-  - Big data k
-  - Data analysis k
-  - AI tools u
-  - Cloud databases k
-  - Data Visualization k
+  - Data warehousing: 🎓 known
+  - Business intelligence: 🎓 known
+  - Big data: 🎓 known
+  - Data analysis: 🎓 known
+  - AI tools: 🖐️ used
+  - Cloud databases: 🎓 known
+  - Data Visualization: 🎓 known
